@@ -45,6 +45,10 @@ Incluye ejemplos, ejercicios resueltos, retos prácticos y un mini-proyecto, tod
 
 ---
 
+## 📖 Licencia
+Este proyecto se distribuye bajo la [Licencia MIT](./LICENSE).
+
+
 ## 🚀 Uso
 
 1. Descarga o clona el repositorio:  
